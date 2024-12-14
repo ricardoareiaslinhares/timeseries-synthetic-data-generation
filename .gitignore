@@ -1,0 +1,8 @@
+data/array_of_df_per_activity/
+data/features
+data/PAMAP2_Dataset_original
+data/raw
+data/sequences
+data/synthetic
+models/Dopplegan/gretel_synthetics
+ReadMe.bup.md
