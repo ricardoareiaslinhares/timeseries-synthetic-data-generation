@@ -1,4 +1,4 @@
-# Synthetic Models for timeseries data generation (specially HAR)
+# Models for timeseries synthetic data generation (specially HAR)
 ## Modelos
 
 Selecionei os modelos com melhores resultados no meus testes com a base de dados PAMAP2:
